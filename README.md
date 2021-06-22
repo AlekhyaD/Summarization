@@ -4,6 +4,7 @@
 we can perform extractive summarization by using run.py
 
 Command: python run.py {story_file_name}
+
 Example: python run.py msft.story
 
 # Approach 02:
