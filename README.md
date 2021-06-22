@@ -1,6 +1,6 @@
 # Summarization
 **Extractive Summarization**
-**Approach 01:**
+# Approach 01:
 we can perform extractive summarization by using run.py
 
 Command: python run.py {story_file_name}
